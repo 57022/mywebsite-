@@ -39,13 +39,13 @@
         <td>5</td>
         <td>ยุนโอ จอง</td>
         <td>แจฮยอน</td>
-        <td><img src="" width="130px"></td>
+        <td><img src="https://s.isanook.com/jo/0/rp/rc/w700h366/yacxacm1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL2pvLzAvdWQvNDg0LzI0MjAwMDEvamFlaHl1bl9zbi5qcGc=.jpg" width="130px"></td>
         <td><a href="https://instagram.com/_jeongjaehyun?utm_medium=copy_link">instagram</a></td>
       <tr>
         <td>6</td>
         <td>ดงยอง คิม</td>
         <td>โดยอง</td>
-        <td><img src="" width="130px"></td>
+        <td><img src="https://cms.dmpcdn.com/musicarticle/2020/12/17/0122d9a0-404e-11eb-9b6d-3fdf37c2e48e_original.png" width="130px"></td>
         <td><a href="https://instagram.com/do0_nct?utm_medium=copy_link">instagram</a></td>
         
 
