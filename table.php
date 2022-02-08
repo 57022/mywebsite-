@@ -27,7 +27,7 @@
         <td>3</td>
         <td>ยองโฮ ซอ</td>
         <td>จอห์นนี่</td>
-        <td><img src="" width="130px"></td>
+        <td><img src="https://i.pinimg.com/236x/80/77/1b/80771b2fbe417dab381480ba639e216a.jpg" width="130px"></td>
         <td><a href="https://instagram.com/johnnyjsuh?utm_medium=copy_link">instagram</a></td>
       <tr>
         <td>4</td>
