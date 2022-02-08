@@ -5,8 +5,8 @@
   <body>
     <table border="1">
       <tr>
-        <td>คอลัมที่ 1</td>
-        <td>คอลัมที่ 2</td>
+        <td>คอลัมน์ที่ 1</td>
+        <td>คอลัมน์ที่ 2</td>
       </tr>
     </table>
   </body> 
