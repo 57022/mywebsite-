@@ -15,7 +15,7 @@
         <td>1</td>
         <td>มาร์ค ลี</td>
         <td>มาร์ค</td>
-        <td><img src="" width="130px"></td>
+        <td><img src="https://drive.google.com/file/d/1yZO-kOKnif8QdyFlUb6hlI-_aJ-DwgtB/view?usp=drivesdk" width="130px"></td>
         <td><a href="https://instagram.com/onyourm__ark?utm_medium=copy_link">instagram</a></td>
       <tr>
         <td>2</td>
