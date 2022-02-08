@@ -21,7 +21,7 @@
         <td>2</td>
         <td>แฮชาน ลี</td>
         <td>แฮชาน</td>
-        <td><img src="" width="130px"></td>
+        <td><img src="https://pbs.twimg.com/media/EkoG04YVMAA3O1y.jpg" width="130px"></td>
         <td><a href="https://instagram.com/fullsun_ncit?utm_medium=copy_link">instagram</a></td>
       <tr>
         <td>3</td>
