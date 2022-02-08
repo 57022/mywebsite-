@@ -15,7 +15,7 @@
         <td>1</td>
         <td>มาร์ค ลี</td>
         <td>มาร์ค</td>
-        <td><img src="https://pin.it/2uKcUxJ" width="130px"></td>
+        <td><img src="" width="130px"></td>
         <td><a href="https://instagram.com/onyourm__ark?utm_medium=copy_link">instagram</a></td>
       <tr>
         <td>1</td>
@@ -23,4 +23,29 @@
         <td>แฮชาน</td>
         <td><img src="" width="130px"></td>
         <td><a href="https://instagram.com/fullsun_ncit?utm_medium=copy_link">instagram</a></td>
+      <tr>
+        <td>1</td>
+        <td>ยองโฮ ซอ</td>
+        <td>จอห์นนี่</td>
+        <td><img src="" width="130px"></td>
+        <td><a href="https://instagram.com/johnnyjsuh?utm_medium=copy_link">instagram</a></td>
+      <tr>
+        <td>1</td>
+        <td>แทอิล มูน</td>
+        <td>แทอิล</td>
+        <td><img src="" width="130px"></td>
+        <td><a href="https://instagram.com/mo.on_air?utm_medium=copy_link">instagram</a></td>
+      <tr>
+        <td>1</td>
+        <td>ยุนโอ จอง</td>
+        <td>แจฮยอน</td>
+        <td><img src="" width="130px"></td>
+        <td><a href="https://instagram.com/_jeongjaehyun?utm_medium=copy_link">instagram</a></td>
+      <tr>
+        <td>1</td>
+        <td>ดงยอง คิม</td>
+        <td>โดยอง</td>
+        <td><img src="" width="130px"></td>
+        <td><a href="https://instagram.com/do0_nct?utm_medium=copy_link">instagram</a></td>
+        
 
