@@ -12,11 +12,13 @@
 			body{
                                 background-color: pink;
 			}
+			h1{
+				color: yellow;      
 		</style>
 	</head>
 	<body>
 		<div id="box1" class="box">
-			<h1>กล่องที่ 1</h1>
+			<h1>นางสาวกชกร นามสิมมา ชั้น 4/13 เลขที่ 13</h1>
 		</div>
 	</body>
 </html>
