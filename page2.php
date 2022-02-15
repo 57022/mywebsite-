@@ -7,7 +7,7 @@
 				height: 350px;
 			}
 			.box{
-				background-color: lightblue;
+				background-color: bluesky;
 			}
 			body{
                                 background-color: lightpink;
