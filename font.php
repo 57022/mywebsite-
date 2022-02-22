@@ -6,12 +6,12 @@
   <style>
     @font-face{
       font-family: myFont1;
-      src: url(SOV_sorm2496.woff)
+      src: url()
     }
   </style>
 </head>
 <body>
   <h1>เว็บไซต์ของฉัน</h1>
-  <h1 id="font1">นางสาวกชกร นามสิมมา</h1>
+  <h1 id="font1">นางสาวกชกร นามสิมมา 4/13 เลขที่ 13 เลขประจำตัว 57022</h1>
 </body>
 </html>
