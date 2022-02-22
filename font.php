@@ -11,6 +11,8 @@
     @font-face{
       font-family: myFont2;
       src: url(Doughnut.woff)
+    #font1{
+	font-family: myFont1;
     }
   </style>
 </head>
