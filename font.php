@@ -12,7 +12,7 @@
   <style>
     @font-face{
       font-family: myFont2;
-      src: url(MiPancake.woff)
+      src: url(Doughnut.woff)
     }
   </style>
 </head>
