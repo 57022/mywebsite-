@@ -8,8 +8,6 @@
       font-family: myFont1;
       src: url(MiPancake.woff)
     }
-  </style>
-  <style>
     @font-face{
       font-family: myFont2;
       src: url(Doughnut.woff)
