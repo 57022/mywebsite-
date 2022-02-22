@@ -6,19 +6,19 @@
   <style>
     @font-face{
       font-family: myFont1;
-      src: url(MiPancake.woff)
+      src: url(SOV_sorm2496.woff)
     }
     @font-face{
       font-family: myFont2;
-      src: url(ChocolateteehaypaiTEST.woff)
+      src: url(SOV_sorm2496.woff)
     }
     #font1{
-	font-family: myFont1;
+	font-family: myFont1;    
     }
   </style>
 </head>
 <body>
-  <h1 id="font2">นางสาวกชกร นามสิมมา 4/13 เลขที่ 13 เลขประจำตัว 57022</h1>
-  <h1 id="font1">นางสาวกชกร นามสิมมา 4/13 เลขที่ 13 เลขประจำตัว 57022</h1>
+  <h1 id="font1">นางสาวกชกร นามสิมมา ม.4/13 เลขที่ 13 เลขประจำตัว 57022</h1>
+  <h1 id="font2">นางสาวกชกร นามสิมมา ม.4/13 เลขที่ 13 เลขประจำตัว 57022</h1>
 </body>
 </html>
